@@ -1,0 +1,10 @@
+# macOS 시스템 파일
+.DS_Store
+
+# 파이썬 관련 임시 파일
+__pycache__/
+*.py[cod]
+
+# 연구 데이터 분석 시 생기는 로그나 임시 파일 (선택 사항)
+*.log
+.ipynb_checkpoints/
